@@ -1,0 +1,2 @@
+stopwordsfilter.NewString
+stopwordsfilter.Stemmer
